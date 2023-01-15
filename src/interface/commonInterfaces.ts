@@ -1,6 +1,6 @@
 export interface TodoItemInterface {
-  Id: number;
-  Name: string;
-  IsComplete: boolean;
-  Secret: string;
+  id: number;
+  name: string;
+  isComplete: boolean;
+  secret: string;
 }
